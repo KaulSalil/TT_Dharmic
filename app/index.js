@@ -6,7 +6,7 @@ export default function Page() {
     <View style={styles.container}>
       <View style={styles.main}>
         <Text style={styles.title}>Hello World</Text>
-        <Link href="./aboutus">About Us</Link>
+        <Link href="/AboutUs">About Us</Link>
       </View>
     </View>
   );
